@@ -217,7 +217,7 @@ opacity: 0.7;}
     padding: 6px 12px;
     background-color: var(--color);
     color: #fff;
-    margin: 0 15px;
+    margin: 15px 0;
   }
   #about p {
     line-height: 1.5;
